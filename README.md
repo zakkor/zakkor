@@ -1,1 +1,1 @@
-![](https://github.com/zakkor/zakkor/raw/master/src/image.png "")
+![](https://github.com/zakkor/zakkor/blob/master/image.png?raw=true)
