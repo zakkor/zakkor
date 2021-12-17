@@ -6,4 +6,8 @@ I'm a polyglot and I've fiddled with a plethora of programming languages over th
 
 My most recent obsession is centered around dynamic languages, and in particular [APL](https://en.wikipedia.org/wiki/APL_(programming_language)).
 
-`p←,i∘.,i⋄×/¨((2020=+/¨p)⍳1)⌷p` [(Advent of Code day 1)](https://adventofcode.com/2020/day/1)
+```
+p1←+/2</n
+p2←+/2</3+/n
+```
+[(Advent of Code day 1)](https://adventofcode.com/2020/day/1)
