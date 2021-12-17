@@ -10,4 +10,4 @@ My most recent obsession is centered around dynamic languages, and in particular
 p1←+/2</n
 p2←+/2</3+/n
 ```
-[(Advent of Code day 1)](https://adventofcode.com/2020/day/1)
+[(Advent of Code day 1)](https://adventofcode.com/2021/day/1)
